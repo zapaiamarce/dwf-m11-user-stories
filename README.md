@@ -1,4 +1,4 @@
-# dwf-m11-user-stories
+# Dwf-m11: User-stories
 
 ### Chat online en "Piedra Papel o Tijera" (dwf-m6):
 Como user de la webapp, necesito un chat en realtime para poder insultar/alentar/comunicarme con mi contrincante en tiempo real.
@@ -12,5 +12,5 @@ Como gamer, necesito una página web que me recomiende los juegos con mejores de
 ### Dev proyecto random:
 Como dev del proyecto, necesito adherirme al trello donde están escritas las tareas a realizar, con sus respectivos dailys y sprints para poder participar en el código del team.
 
-### CLiente random de Mercado Libre:
+### Cliente random de Mercado Libre:
 Como consumidor de mercado libre, necesito que generen un nuevo sistema de envío por drones, para facilitar la seguridad y rapidez del mismo.
